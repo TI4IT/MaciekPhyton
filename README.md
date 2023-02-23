@@ -1,3 +1,3 @@
 # MaciekPhyton
-# MaciekPhyton
-# MaciekPhyton
+
+##git  prześladowanie postępów pycharm
